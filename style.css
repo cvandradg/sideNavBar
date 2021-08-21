@@ -199,10 +199,6 @@
     --bg-secondary: #f5e5b8;
   }
   
-  .theme-icon {
-    display: none;
-  }
-  
   .dark #darkIcon {
     display: block;
   }
